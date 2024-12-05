@@ -1,10 +1,12 @@
 import os
 import json
 import logging
+from dotenv import load_dotenv
 from schedule.version import __version__
 
 logger = logging.getLogger(__name__)
 
+load_dotenv()
 
 class Config:
     def __init__(self, config_file="config/config.json"):
