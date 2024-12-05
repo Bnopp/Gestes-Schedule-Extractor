@@ -1,0 +1,3789 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241211T134500Z
+DTSTART:20241211T130000Z
+SUMMARY:MATH (Le Franc)
+UID:369a7b86-dea7-471b-bcad-0b9a76b97c66@369a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250611T111500Z
+DTSTART:20250611T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:73bc42dc-0f1e-4777-a86d-3eb447838696@73bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250513T153500Z
+DTSTART:20250513T121000Z
+SUMMARY:PRSE (Gerber)
+UID:985ca2fa-915f-4a03-8fb5-319706c9a75f@985c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240924T153500Z
+DTSTART:20240924T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:78eb62c1-fecc-48e7-9ef7-1dcba8b25773@78eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250212T093500Z
+DTSTART:20250212T075000Z
+SUMMARY:MATH (Le Franc)
+UID:2cd8708c-6968-4489-889a-ba902069e694@2cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250508T083500Z
+DTSTART:20250508T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:d7ed703f-91fe-4a90-a082-32e8ad321452@d7ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241217T083500Z
+DTSTART:20241217T070000Z
+SUMMARY:TSYS (Bron)
+UID:57e7b078-86f3-4f3b-833c-bf72a67c10b6@57e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250501T083500Z
+DTSTART:20250501T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:ea197f67-b784-40a2-864a-307627d5c087@ea19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241204T125500Z
+DTSTART:20241204T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:a8001ae5-073f-4d17-a8f8-202fdd68d68e@a800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240903T102500Z
+DTSTART:20240903T085000Z
+SUMMARY:MATH (Le Franc)
+UID:fe55b17b-b782-40df-8f58-29adb85af9e2@fe55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250319T093500Z
+DTSTART:20250319T075000Z
+SUMMARY:MATH (Le Franc)
+UID:71aecfe4-4197-4529-845d-7e992c71a957@71ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240911T111500Z
+DTSTART:20240911T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:07645443-6234-40a8-929a-fe3bca861623@0764.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241209T102500Z
+DTSTART:20241209T085000Z
+SUMMARY:MDLD (Girardet)
+UID:932d28ad-c51b-4ae2-ae11-b5f762e91a53@932d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20250410T111500Z
+DTSTART:20250410T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:14e9c179-ad24-4865-88ab-a2d0fa772946@14e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250110T111500Z
+DTSTART:20250110T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:83edeb4f-e86b-4fe9-8f88-3009cd17a28b@83ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250625T153500Z
+DTSTART:20250625T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:d868ae94-0996-4bc5-af87-211fb350d1e6@d868.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250407T102500Z
+DTSTART:20250407T085000Z
+SUMMARY:MDLD (Girardet)
+UID:f98dacef-1db8-4819-80e7-44c06c42a8dc@f98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240912T102500Z
+DTSTART:20240912T094000Z
+SUMMARY:MATH (Le Franc)
+UID:62b2173a-972e-4ed6-9a00-7d171f876e5d@62b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240910T083500Z
+DTSTART:20240910T070000Z
+SUMMARY:REMA (Le Franc)
+UID:46e54cd4-f846-45b9-b979-2ff94d30c440@46e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240909T102500Z
+DTSTART:20240909T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:5176b267-a600-4959-95ff-90adf65ef9d6@5176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241115T093500Z
+DTSTART:20241115T070000Z
+SUMMARY:RESE (Bron)
+UID:c06205ff-f8d6-4c2d-9c73-e374b51e96f4@c062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241218T102500Z
+DTSTART:20241218T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:f56bf879-04a1-4b7b-b447-08a8ad5adfb8@f56b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20250114T144500Z
+DTSTART:20250114T121000Z
+SUMMARY:STAT (Le Franc)
+UID:418e87c4-d846-4c9d-a0f3-49890a792140@418e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250305T111500Z
+DTSTART:20250305T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:bc91770e-55b0-4525-9a24-a82c148c3e8c@bc91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241118T083500Z
+DTSTART:20241118T070000Z
+SUMMARY:BDON (Girardet)
+UID:b12daedb-1627-42a8-adea-d2ad12ae363d@b12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250130T153500Z
+DTSTART:20250130T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:9b4a7afa-42cf-4774-b804-b0aaebedad66@9b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250108T102500Z
+DTSTART:20250108T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:ae288892-95e2-4054-80c7-e1c5019a7e5c@ae28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250514T153500Z
+DTSTART:20250514T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:e9d755fb-7b56-4e76-8645-a7cbaeb3c925@e9d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241128T083500Z
+DTSTART:20241128T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:2f699dec-977d-4548-9c83-50e8e3fa324d@2f69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250227T111500Z
+DTSTART:20250227T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:0b8ccb2e-a5cb-4c37-819d-9809ac6b1243@0b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250625T111500Z
+DTSTART:20250625T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:1e70b2d2-d0e5-44d0-96ea-ef5cc2a2348e@1e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250526T083500Z
+DTSTART:20250526T070000Z
+SUMMARY:BDON (Girardet)
+UID:24c286fb-4e15-4226-82e3-9fc3f72391f4@24c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250314T102500Z
+DTSTART:20250314T070000Z
+SUMMARY:ASRV (Bron)
+UID:5bc56de8-4736-4a18-9be4-d45dc904731e@5bc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250429T102500Z
+DTSTART:20250429T085000Z
+SUMMARY:MATH (Le Franc)
+UID:74a0e694-54b2-4c45-9e3e-45d854c7f686@74a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250610T102500Z
+DTSTART:20250610T085000Z
+SUMMARY:MATH (Le Franc)
+UID:9e554b8c-e5bb-401d-a0b7-314408f0482e@9e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241219T144500Z
+DTSTART:20241219T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:2575e31a-4d1e-443b-8e36-85ccc2e500c9@2575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250127T153500Z
+DTSTART:20250127T130000Z
+SUMMARY:GPWR (Gerber)
+UID:24b138c9-4d90-4aab-aec9-756248de94ff@24b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240924T083500Z
+DTSTART:20240924T070000Z
+SUMMARY:TSYS (Bron)
+UID:d3ed9b05-8cb7-4cd5-9fb5-5c149fb0f244@d3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250122T125500Z
+DTSTART:20250122T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:97ca8e42-b424-46c5-88f9-3847e39c8c5e@97ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250521T111500Z
+DTSTART:20250521T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:287decdf-6720-4801-9826-207f9544afe2@287d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250317T153500Z
+DTSTART:20250317T130000Z
+SUMMARY:GPWR (Gerber)
+UID:e9639119-605d-4e27-8afd-bc8b4f9e4518@e963.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241202T083500Z
+DTSTART:20241202T070000Z
+SUMMARY:BDON (Girardet)
+UID:9c3fd29b-044f-4f2f-ad59-2d3df113b669@9c3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250303T153500Z
+DTSTART:20250303T130000Z
+SUMMARY:GPWR (Gerber)
+UID:ba0e0d0d-21f2-41c8-853a-ad94232ccdef@ba0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241119T083500Z
+DTSTART:20241119T070000Z
+SUMMARY:TSYS (Bron)
+UID:f0de7992-aaba-462f-a06a-24e50d4c82df@f0de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250108T153500Z
+DTSTART:20250108T140000Z
+SUMMARY:REMA (Le Franc)
+UID:2b2416b1-b556-47c8-8b06-235d422d9721@2b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250612T102500Z
+DTSTART:20250612T085000Z
+SUMMARY:MATH (Le Franc)
+UID:effd42a8-1326-408a-aa18-17d069578294@effd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241211T102500Z
+DTSTART:20241211T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:562f1e07-1e41-4770-a012-53025f02cbfc@562f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250317T102500Z
+DTSTART:20250317T085000Z
+SUMMARY:MDLD (Girardet)
+UID:3814b56c-a493-47cf-a983-1b322df99aaf@3814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240911T093500Z
+DTSTART:20240911T070000Z
+SUMMARY:STAT (Le Franc)
+UID:88b7bfd3-7259-4eba-9916-e22ec571cb6d@88b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241113T153500Z
+DTSTART:20241113T140000Z
+SUMMARY:REMA (Le Franc)
+UID:844a0f22-1379-457a-9684-6d272c90b6d1@844a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250122T102500Z
+DTSTART:20250122T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:0d8d2195-df75-455b-bf3b-00b9bfe1830d@0d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241206T111500Z
+DTSTART:20241206T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:a322492b-9862-41ef-a0f5-89fb08387270@a322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250204T153500Z
+DTSTART:20250204T140000Z
+SUMMARY:REMA (Le Franc)
+UID:9e777044-3ea4-4569-948f-3066e6d51d55@9e77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241106T111500Z
+DTSTART:20241106T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:4266b196-fc25-4622-9df1-fae5cb51a827@4266.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20241220T093500Z
+DTSTART:20241220T070000Z
+SUMMARY:RESE (Bron)
+UID:9fe7d556-080c-44a5-8636-ddc5a729e3f9@9fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241101T111500Z
+DTSTART:20241101T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:42f111e1-7795-49a2-837a-808c656d4228@42f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241204T134500Z
+DTSTART:20241204T130000Z
+SUMMARY:MATH (Le Franc)
+UID:5262aaef-539c-4786-9ecb-d04293a06c53@5262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250327T153500Z
+DTSTART:20250327T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:ff377ed5-befd-4f09-8c07-f25a70b8d181@ff37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240918T093500Z
+DTSTART:20240918T070000Z
+SUMMARY:STAT (Le Franc)
+UID:6e3f3499-0566-44c4-a12e-e9bad733ff31@6e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241209T083500Z
+DTSTART:20241209T070000Z
+SUMMARY:BDON (Girardet)
+UID:69ca072c-9c3d-452a-8750-b3ea81e3fb11@69ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241126T102500Z
+DTSTART:20241126T085000Z
+SUMMARY:MATH (Le Franc)
+UID:849d3d64-7c64-4356-bad9-dd87ac4b2bfe@849d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241114T083500Z
+DTSTART:20241114T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:24baf724-8df7-484d-8af7-41ce9c89ede5@24ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250430T111500Z
+DTSTART:20250430T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:6a222d0c-5f5c-4553-80a3-1baa3f4949e3@6a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250325T102500Z
+DTSTART:20250325T075000Z
+SUMMARY:RESE (Bron)
+UID:2cdd7061-7de4-4e60-8241-012a6598ce6f@2cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240912T093500Z
+DTSTART:20240912T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:9612e5f3-b13d-4a0d-ad02-935f78c336f6@9612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250205T153500Z
+DTSTART:20250205T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:cf448efb-31a0-42e6-b4f8-550c34cc6804@cf44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250404T153500Z
+DTSTART:20250404T121000Z
+SUMMARY:WEBA (GANDER)
+UID:4f6ff293-3ea6-4b35-a5eb-ad001f5ab591@4f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250311T153500Z
+DTSTART:20250311T140000Z
+SUMMARY:REMA (Le Franc)
+UID:da97c809-92b1-4fff-8d85-6a767da40c84@da97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240829T093500Z
+DTSTART:20240829T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:f4da3e0c-45b2-4b59-b836-7f7f1cb690ae@f4da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20250123T083500Z
+DTSTART:20250123T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:8c7993a2-917d-4971-adfd-9664fca91f22@8c79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250224T083500Z
+DTSTART:20250224T070000Z
+SUMMARY:BDON (Girardet)
+UID:f016b869-c4b0-46ab-b314-507a663806ee@f016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241112T102500Z
+DTSTART:20241112T085000Z
+SUMMARY:MATH (Le Franc)
+UID:68c46c4d-d438-4416-89a2-0c76e87ae592@68c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241104T102500Z
+DTSTART:20241104T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:ac867d0d-9aee-4300-a807-28ec3686aaf9@ac86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250605T111500Z
+DTSTART:20250605T103000Z
+SUMMARY:REMA (Le Franc)
+UID:62dce1b9-aef5-4ff8-9210-8da95d2316f0@62dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250205T111500Z
+DTSTART:20250205T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:bac709a5-a071-41f0-8298-0fc7f8638bba@bac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241029T102500Z
+DTSTART:20241029T085000Z
+SUMMARY:MATH (Le Franc)
+UID:2b3747d7-32b8-4d7c-bba5-60a0ab37496b@2b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250505T083500Z
+DTSTART:20250505T070000Z
+SUMMARY:BDON (Girardet)
+UID:f31f4d66-ed24-4727-ac30-54df777979d8@f31f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20240819T083500Z
+DTSTART:20240819T070000Z
+SUMMARY:ACCUEIL (Le Franc)
+UID:374e5fb2-4253-401b-b341-6077d7a91141@374e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241007T102500Z
+DTSTART:20241007T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:d23eba72-b24f-4bad-893f-d03f2a988b9d@d23e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250619T111500Z
+DTSTART:20250619T103000Z
+SUMMARY:REMA (Le Franc)
+UID:d2581c64-f782-4a38-afca-7a27dd6a87e4@d258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250612T111500Z
+DTSTART:20250612T103000Z
+SUMMARY:REMA (Le Franc)
+UID:19701669-1311-45af-b499-da61aebfeacd@1970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241106T093500Z
+DTSTART:20241106T070000Z
+SUMMARY:STAT (Le Franc)
+UID:5a19fcdc-1b3e-47bc-98bd-fadd8fa9e405@5a19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250303T102500Z
+DTSTART:20250303T085000Z
+SUMMARY:MDLD (Girardet)
+UID:18e5afab-8ae0-49db-aa37-e83a3190adca@18e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250312T093500Z
+DTSTART:20250312T075000Z
+SUMMARY:MATH (Le Franc)
+UID:21a203c2-1dd1-41d8-a811-c5e588137a3c@21a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241204T153500Z
+DTSTART:20241204T140000Z
+SUMMARY:REMA (Le Franc)
+UID:8f58b1b4-b758-4f24-af2e-d354b263bd05@8f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250328T102500Z
+DTSTART:20250328T070000Z
+SUMMARY:ASRV (Bron)
+UID:fff7b092-7c8a-4a42-a0d5-7cb4633943f8@fff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250325T134500Z
+DTSTART:20250325T121000Z
+SUMMARY:MATH (Le Franc)
+UID:72fc05d8-73c9-4369-a440-1522924cb9f2@72fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250129T153500Z
+DTSTART:20250129T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:448704ba-cd6c-4e02-92de-947ad60a7986@4487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241002T093500Z
+DTSTART:20241002T070000Z
+SUMMARY:MATH (Le Franc)
+UID:9f4b9f85-4b6b-49c2-97ce-825cf9fb66cc@9f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241210T153500Z
+DTSTART:20241210T145000Z
+SUMMARY:MATH (Le Franc)
+UID:c1153f06-d9ef-43fd-9218-4a724ebc1ed2@c115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250127T083500Z
+DTSTART:20250127T070000Z
+SUMMARY:BDON (Girardet)
+UID:7b515949-aded-4238-a1d8-22260416fd94@7b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250321T102500Z
+DTSTART:20250321T070000Z
+SUMMARY:ASRV (Bron)
+UID:3b4581d7-6d52-41f9-9a3a-00f6de69cf78@3b45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241001T153500Z
+DTSTART:20241001T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:03737fe9-997f-421a-97ce-d4aed984990e@0373.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250427T170000Z
+DTSTART:20250412T070000Z
+SUMMARY:Congé : Vacances de Pâques
+UID:7d369f9d-64ea-4d40-9e4e-948f1294b630@7d36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240910T102500Z
+DTSTART:20240910T085000Z
+SUMMARY:MATH (Le Franc)
+UID:e4c13560-3dd6-400b-b22e-d859ada148a5@e4c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250626T102500Z
+DTSTART:20250626T085000Z
+SUMMARY:MATH (Le Franc)
+UID:94a780a6-bd39-457b-a98c-10524ad7cbe1@94a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250403T153500Z
+DTSTART:20250403T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:e88af7f2-58b7-4ee1-9dc5-fdd15bc9abee@e88a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250211T153500Z
+DTSTART:20250211T140000Z
+SUMMARY:REMA (Le Franc)
+UID:236eb074-9e4c-4fce-abb2-0631e7ed84ee@236e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250113T083500Z
+DTSTART:20250113T070000Z
+SUMMARY:BDON (Girardet)
+UID:06a85499-ffc1-448d-b5bd-3ce1f45d6609@06a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240820T102500Z
+DTSTART:20240820T085000Z
+SUMMARY:MATH (Le Franc)
+UID:759514fd-6210-4ef0-98d8-2d5cf0e18768@7595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241003T093500Z
+DTSTART:20241003T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:4ab889c6-13ed-4ae9-a201-a7686b30f551@4ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20241213T093500Z
+DTSTART:20241213T070000Z
+SUMMARY:RESE (Bron)
+UID:f4b8acc7-8179-450a-a1b6-b1b613156906@f4b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240904T093500Z
+DTSTART:20240904T070000Z
+SUMMARY:STAT (Le Franc)
+UID:9025eff5-2f38-47a1-bb2b-8940c6fa7235@9025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250214T153500Z
+DTSTART:20250214T121000Z
+SUMMARY:WEBA (GANDER)
+UID:b5a45943-8c4f-4f79-9a92-2c674de70138@b5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240903T083500Z
+DTSTART:20240903T070000Z
+SUMMARY:TSYS (Bron)
+UID:5606b1e6-8480-4b5a-b3f7-d217748d26d9@5606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241007T144500Z
+DTSTART:20241007T130000Z
+SUMMARY:CPTA (Bruyndonckx)
+UID:0ff3cd80-92f9-406b-ba07-953eabe549d4@0ff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250211T102500Z
+DTSTART:20250211T075000Z
+SUMMARY:RESE (Bron)
+UID:fecc4f9c-71dd-4907-8527-b92d05620e10@fecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241001T083500Z
+DTSTART:20241001T070000Z
+SUMMARY:TSYS (Bron)
+UID:e02de589-8ea7-4c5b-abe6-a0abd20017e9@e02d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250213T083500Z
+DTSTART:20250213T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:eaf25bf0-4c00-471b-b461-20e8226abaf3@eaf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240906T111500Z
+DTSTART:20240906T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:c40f2ad8-1c28-422b-b918-33ad919c12ae@c40f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250324T153500Z
+DTSTART:20250324T130000Z
+SUMMARY:GPWR (Gerber)
+UID:aa37f88e-1d84-442a-adc5-52d7cf563179@aa37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241008T102500Z
+DTSTART:20241008T085000Z
+SUMMARY:MATH (Le Franc)
+UID:2ded03a8-b7c9-401b-a990-4bb8f1372d5e@2ded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250121T102500Z
+DTSTART:20250121T085000Z
+SUMMARY:MATH (Le Franc)
+UID:c73d9296-3ca9-4578-ad01-f4d8caf57a53@c73d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240910T153500Z
+DTSTART:20240910T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:fc697a30-1fa8-4d58-8aff-f68045e46a9c@fc69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241219T083500Z
+DTSTART:20241219T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:1eab9008-b52b-4b4b-be3c-7d87bd3e1086@1eab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250502T083500Z
+DTSTART:20250502T075000Z
+SUMMARY:REMA (Le Franc)
+UID:8b6b3374-1f3c-4c2d-9990-bd24d059873a@8b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250605T153500Z
+DTSTART:20250605T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:e40a9a56-32f3-46b9-86fd-5f33daa534bf@e40a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240925T111500Z
+DTSTART:20240925T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:6bdded91-2604-4ab5-a261-c418e7e5f81a@6bdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250127T102500Z
+DTSTART:20250127T085000Z
+SUMMARY:MDLD (Girardet)
+UID:1f3a6ac9-3583-47cd-9ad3-d04a57cfd486@1f3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250326T153500Z
+DTSTART:20250326T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:dbeb291d-764e-44ad-b8a7-7503764161e5@dbeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241210T102500Z
+DTSTART:20241210T085000Z
+SUMMARY:MATH (Le Franc)
+UID:9f4aa09d-1ec4-4851-88d8-5abb934bdb41@9f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250319T153500Z
+DTSTART:20250319T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:8972d6b9-2163-4da9-b11c-020c1ea0a3a2@8972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250617T102500Z
+DTSTART:20250617T085000Z
+SUMMARY:MATH (Le Franc)
+UID:2db59cdd-39e6-4378-9783-4a6f02cbb137@2db5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250326T093500Z
+DTSTART:20250326T075000Z
+SUMMARY:MATH (Le Franc)
+UID:ef4ddfba-6257-4fc9-9bf9-5cd131ee220c@ef4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241029T153500Z
+DTSTART:20241029T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:94e16965-fc66-45ab-b2dc-1336aa8b6c1f@94e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240923T144500Z
+DTSTART:20240923T130000Z
+SUMMARY:MATH (Le Franc)
+UID:02af7e77-9bd6-49a4-9b90-ff7c60bfb56f@02af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250513T083500Z
+DTSTART:20250513T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:01dd983f-6714-4825-bbe7-4865927e6f35@01dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241008T083500Z
+DTSTART:20241008T070000Z
+SUMMARY:TSYS (Bron)
+UID:1c1253c9-5bf1-4336-872e-ec41ae53bef2@1c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240903T153500Z
+DTSTART:20240903T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:755ab577-b098-4f85-abe5-3280e25de866@755a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250527T102500Z
+DTSTART:20250527T085000Z
+SUMMARY:MATH (Le Franc)
+UID:69ead4f9-afff-4a56-905f-564c35fe036e@69ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240912T125500Z
+DTSTART:20240912T112000Z
+SUMMARY:TSYS (Bron)
+UID:26fe292b-7175-480e-a04d-3c98479e3941@26fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240917T153500Z
+DTSTART:20240917T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:ec665f29-7526-41e1-8ed6-7c27a16fbeaa@ec66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250519T102500Z
+DTSTART:20250519T085000Z
+SUMMARY:MDLD (Girardet)
+UID:c2c27e03-8302-4f95-8cc2-2b80e93b1929@c2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240916T170000Z
+DTSTART:20240916T070000Z
+SUMMARY:Congé : Jeûne fédéral
+UID:21d20155-5e02-4055-8cb4-f826c954b50f@21d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250522T111500Z
+DTSTART:20250522T103000Z
+SUMMARY:REMA (Le Franc)
+UID:ffb18ff5-c98e-414a-9821-502b3e98670e@ffb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20241122T093500Z
+DTSTART:20241122T070000Z
+SUMMARY:RESE (Bron)
+UID:29901ab9-6454-404b-bb30-4bc7e9a7b738@2990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250114T153500Z
+DTSTART:20250114T145000Z
+SUMMARY:MATH (Le Franc)
+UID:9ad1dbba-23e4-4745-9ec9-245651e86cb0@9ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250210T153500Z
+DTSTART:20250210T130000Z
+SUMMARY:GPWR (Gerber)
+UID:7af2bdd3-7e80-4c1f-a8ec-e94fa65e141c@7af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250113T102500Z
+DTSTART:20250113T085000Z
+SUMMARY:MDLD (Girardet)
+UID:b22e1c96-9ec1-4447-a5ae-fcef702c0830@b22e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250224T153500Z
+DTSTART:20250224T130000Z
+SUMMARY:GPWR (Gerber)
+UID:85cec27e-a073-467a-a2e7-af1f20bbdf6a@85ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250626T083500Z
+DTSTART:20250626T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:09c5ca7b-1dd9-44eb-a9a0-c91ea0a15b1e@09c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250515T153500Z
+DTSTART:20250515T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:f231071e-65b3-4396-9f94-f222b83c11c0@f231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250106T083500Z
+DTSTART:20250106T070000Z
+SUMMARY:BDON (Girardet)
+UID:da2f97e4-1b83-4168-9439-c2dc4930183d@da2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250307T102500Z
+DTSTART:20250307T070000Z
+SUMMARY:ASRV (Bron)
+UID:a61918e1-e98e-4df4-9bde-c623e90c7dc4@a619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250325T153500Z
+DTSTART:20250325T140000Z
+SUMMARY:REMA (Le Franc)
+UID:33d4185d-3c71-47ea-bc71-f575bc7cd997@33d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250324T102500Z
+DTSTART:20250324T085000Z
+SUMMARY:MDLD (Girardet)
+UID:b6cbaa8c-21f3-4958-adcc-ab0d3f57f239@b6cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241114T144500Z
+DTSTART:20241114T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:a4988886-494e-4f5b-b306-f1e8a3f92b42@a498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250226T111500Z
+DTSTART:20250226T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:9a6a36bd-e862-4a6a-ab7b-154f0800e397@9a6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241119T102500Z
+DTSTART:20241119T085000Z
+SUMMARY:MATH (Le Franc)
+UID:872e24d7-c198-4be8-b8c1-6f149ae7ee60@872e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250505T102500Z
+DTSTART:20250505T085000Z
+SUMMARY:MDLD (Girardet)
+UID:9259991a-2dca-43aa-b09b-f3842b7ca266@9259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241206T153500Z
+DTSTART:20241206T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:97864ea3-7562-4c8f-aace-a65638347770@9786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250513T102500Z
+DTSTART:20250513T085000Z
+SUMMARY:MATH (Le Franc)
+UID:37d91702-5745-45a0-b210-e854ef9c5761@37d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241220T153500Z
+DTSTART:20241220T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:362d3f82-de5e-449a-bcc3-21b33fa5f71b@362d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241010T093500Z
+DTSTART:20241010T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:da3e9b7b-e573-41e7-b1d5-792c7ae2b084@da3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250407T083500Z
+DTSTART:20250407T070000Z
+SUMMARY:BDON (Girardet)
+UID:ccd8bdc7-bf2f-43df-8324-fec4f769f146@ccd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240818T170000Z
+DTSTART:20240629T070000Z
+SUMMARY:Congé : Vacances d"été
+UID:db22f0a6-6def-458f-95fd-b230e2381c7c@db22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250204T102500Z
+DTSTART:20250204T075000Z
+SUMMARY:RESE (Bron)
+UID:25ac179d-b384-4b2f-afcd-e220718b82a4@25ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250522T153500Z
+DTSTART:20250522T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:22de0ce0-5b56-4848-9226-c3f67ed0dd62@22de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250122T134500Z
+DTSTART:20250122T130000Z
+SUMMARY:MATH (Le Franc)
+UID:ed09c69f-102f-48c3-897a-0c2c9c7541f1@ed09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241128T102500Z
+DTSTART:20241128T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:7e26d021-7284-49f4-90a4-4d0bc9b82098@7e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250429T153500Z
+DTSTART:20250429T121000Z
+SUMMARY:PRSE (Gerber)
+UID:0fa376f1-5c95-46f5-b529-4753975aceda@0fa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250203T083500Z
+DTSTART:20250203T070000Z
+SUMMARY:BDON (Girardet)
+UID:d0e86426-8e04-4b24-b22d-0109f9263de8@d0e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250429T083500Z
+DTSTART:20250429T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:c51c8aa6-afff-44d4-9b7e-66fd5553d8f6@c51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250508T111500Z
+DTSTART:20250508T103000Z
+SUMMARY:REMA (Le Franc)
+UID:e19ffeeb-d487-46b7-bd82-3c740c954fe0@e19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241031T134500Z
+DTSTART:20241031T121000Z
+SUMMARY:REMA (Le Franc)
+UID:75e9e9e0-c622-4e20-81d2-81377306d2d0@75e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20250121T144500Z
+DTSTART:20250121T121000Z
+SUMMARY:STAT (Le Franc)
+UID:373b76df-ea6f-401d-a119-3e68d1d8147a@373b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250203T102500Z
+DTSTART:20250203T085000Z
+SUMMARY:MDLD (Girardet)
+UID:3ba53e2c-cd1b-4b50-a89d-63c1c90b5542@3ba5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250519T083500Z
+DTSTART:20250519T070000Z
+SUMMARY:BDON (Girardet)
+UID:4d9473e5-bdbb-488a-b6b9-e5c2b1b6a0f1@4d94.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250817T170000Z
+DTSTART:20250628T070000Z
+SUMMARY:Congé : Vacances d"été
+UID:3557d44b-49d2-45b1-b0e7-d507001b8da9@3557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241203T153500Z
+DTSTART:20241203T145000Z
+SUMMARY:MATH (Le Franc)
+UID:b4b03b24-883f-405e-89ea-46ac7fd648f8@b4b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250523T153500Z
+DTSTART:20250523T121000Z
+SUMMARY:WEBA (GANDER)
+UID:afb15760-1073-4d9d-aec3-551283c04a82@afb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241212T144500Z
+DTSTART:20241212T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:5be86ff5-b07f-42ab-8cb5-a5f1702518e0@5be8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250228T102500Z
+DTSTART:20250228T070000Z
+SUMMARY:ASRV (Bron)
+UID:2ee07843-1147-4623-8de3-8633272a3999@2ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250410T083500Z
+DTSTART:20250410T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:57d19765-e7cc-4f66-8fc5-66399b2633ed@57d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241113T102500Z
+DTSTART:20241113T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:ea2724e3-2f83-4b30-a621-e58bc1e19fd6@ea27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250501T153500Z
+DTSTART:20250501T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:efe69a87-681e-4c84-a076-27ff47154580@efe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250620T083500Z
+DTSTART:20250620T075000Z
+SUMMARY:REMA (Le Franc)
+UID:279aad3d-0ad3-414c-8e90-e49d89c5c075@279a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250620T153500Z
+DTSTART:20250620T121000Z
+SUMMARY:WEBA (GANDER)
+UID:06665dc6-37c1-4b0d-85d1-ff4625595e75@0666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250326T111500Z
+DTSTART:20250326T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:3f3bfdc5-dd36-43fd-b747-2e8c351e175f@3f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20241217T144500Z
+DTSTART:20241217T121000Z
+SUMMARY:STAT (Le Franc)
+UID:7eb5f149-364f-43b7-b02a-ac65227db17e@7eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20250117T093500Z
+DTSTART:20250117T070000Z
+SUMMARY:RESE (Bron)
+UID:0b474096-590b-46e8-99cc-fc210edf621e@0b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250122T153500Z
+DTSTART:20250122T140000Z
+SUMMARY:REMA (Le Franc)
+UID:ae344af1-b159-448d-a4e0-57b797b0243e@ae34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240926T111500Z
+DTSTART:20240926T094000Z
+SUMMARY:MATH (Le Franc)
+UID:da59867c-1c8a-456e-9563-b221d0cef54f@da59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241125T083500Z
+DTSTART:20241125T070000Z
+SUMMARY:BDON (Girardet)
+UID:4805ad1d-aeb6-4669-8a7d-493aad7ef3ba@4805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240927T111500Z
+DTSTART:20240927T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:08aa1622-61cd-4424-b1e9-0b8024f89442@08aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250507T153500Z
+DTSTART:20250507T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:8ae3dd5f-7460-4560-b714-e028db43cc41@8ae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240917T102500Z
+DTSTART:20240917T085000Z
+SUMMARY:TSYS (Bron)
+UID:5d6482dc-4200-47b6-a4a1-836c64d05377@5d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250527T083500Z
+DTSTART:20250527T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:f2ca5dc7-f9be-4ec1-a30f-20d3ceeaa40b@f2ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250108T125500Z
+DTSTART:20250108T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:b999b587-7313-48f3-b839-afea132866b3@b999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250618T153500Z
+DTSTART:20250618T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:3c5e0730-0522-4061-85a0-cd50d90a48bf@3c5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241125T102500Z
+DTSTART:20241125T085000Z
+SUMMARY:MDLD (Girardet)
+UID:8dd76ff5-797c-4555-b81c-15747ec1012e@8dd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250116T102500Z
+DTSTART:20250116T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:9f664486-d666-456b-aceb-68715ba7768c@9f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240822T111500Z
+DTSTART:20240822T094000Z
+SUMMARY:MATH (Le Franc)
+UID:46514f76-d274-477b-a9c9-9604fbbb98de@4651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250121T153500Z
+DTSTART:20250121T145000Z
+SUMMARY:MATH (Le Franc)
+UID:3c7cc668-2466-4710-b500-37132c076d9c@3c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241002T153500Z
+DTSTART:20241002T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:1f79bde1-6e4b-40c5-b7e6-bf8da8816948@1f79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20250107T144500Z
+DTSTART:20250107T121000Z
+SUMMARY:STAT (Le Franc)
+UID:51c54059-f66b-49be-a5a7-ba949453dc2e@51c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241030T111500Z
+DTSTART:20241030T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:a0cccd0b-7177-4add-9a00-c95e3fcea43d@a0cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241106T153500Z
+DTSTART:20241106T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:6c01c7c4-3fcf-4880-b770-af89b5e4f0b5@6c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250624T102500Z
+DTSTART:20250624T085000Z
+SUMMARY:MATH (Le Franc)
+UID:30d5b0cf-6082-4ca0-a71a-0ccbeb990143@30d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250128T153500Z
+DTSTART:20250128T140000Z
+SUMMARY:REMA (Le Franc)
+UID:2e02aed1-e6e0-47ca-a364-c83fd73ed5ac@2e02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250312T153500Z
+DTSTART:20250312T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:6376d415-c8f4-4913-b431-be068448e4f3@6376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250606T111500Z
+DTSTART:20250606T085000Z
+SUMMARY:RESE (Bron)
+UID:62e6b92f-6504-4a72-83b5-134bc3210195@62e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250305T153500Z
+DTSTART:20250305T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:7d08c057-20c3-4818-92f1-ab151df1d329@7d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250602T083500Z
+DTSTART:20250602T070000Z
+SUMMARY:BDON (Girardet)
+UID:b58bf6f4-f01d-4944-afca-61d10bb22605@b58b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241001T102500Z
+DTSTART:20241001T085000Z
+SUMMARY:MATH (Le Franc)
+UID:8180ac3c-63ed-46a0-80cb-5346499f4c7f@8180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241010T134500Z
+DTSTART:20241010T121000Z
+SUMMARY:REMA (Le Franc)
+UID:f5ebe267-ac54-4446-b4fd-29e2d49fabf5@f5eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250428T102500Z
+DTSTART:20250428T085000Z
+SUMMARY:MDLD (Girardet)
+UID:0050daad-98c9-45a1-8cf2-c2ab346f4cb0@0050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240820T083500Z
+DTSTART:20240820T070000Z
+SUMMARY:TSYS (Bron)
+UID:b1118d14-4240-43a3-9e9d-93b221a89a17@b111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241122T111500Z
+DTSTART:20241122T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:31838bab-5092-4cdc-bc38-e5b211894357@3183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241112T083500Z
+DTSTART:20241112T070000Z
+SUMMARY:TSYS (Bron)
+UID:6ea42bb1-c422-4794-bc1e-cb05afda6a8d@6ea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241119T153500Z
+DTSTART:20241119T145000Z
+SUMMARY:MATH (Le Franc)
+UID:60565e6e-d09b-4636-b08c-268a320cec4c@6056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20250124T093500Z
+DTSTART:20250124T070000Z
+SUMMARY:RESE (Bron)
+UID:3e3fce60-1fd7-486a-84c8-3505e327e93d@3e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250619T102500Z
+DTSTART:20250619T085000Z
+SUMMARY:MATH (Le Franc)
+UID:53711faf-08db-408b-a6ea-ec57c48c0838@5371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241212T102500Z
+DTSTART:20241212T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:659212df-0001-4dc4-a644-6c2ae770549b@6592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241218T125500Z
+DTSTART:20241218T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:5fc32622-93da-4aa9-b605-9207c4c14bb9@5fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250502T153500Z
+DTSTART:20250502T121000Z
+SUMMARY:WEBA (GANDER)
+UID:eadf08da-be46-423d-b270-c2a6bd2e8dff@eadf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250522T102500Z
+DTSTART:20250522T085000Z
+SUMMARY:MATH (Le Franc)
+UID:303a9537-113f-45dd-955e-c1784ba9da7e@303a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250206T083500Z
+DTSTART:20250206T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:617a7f54-6caf-49c9-9e37-ba301052c664@617a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250225T153500Z
+DTSTART:20250225T140000Z
+SUMMARY:REMA (Le Franc)
+UID:60852abe-0569-4473-aa3c-77d00602e71a@6085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250212T153500Z
+DTSTART:20250212T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:02ee5f0d-4cfa-4a49-98a9-e6a021c4967b@02ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250523T111500Z
+DTSTART:20250523T085000Z
+SUMMARY:RESE (Bron)
+UID:97fcaa83-276c-4535-a36b-50a818b01f59@97fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250512T083500Z
+DTSTART:20250512T070000Z
+SUMMARY:BDON (Girardet)
+UID:77abf62d-b7b9-4422-bab9-661d2f33792e@77ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250521T093500Z
+DTSTART:20250521T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:96acced2-76c7-4a8b-9219-6426883cc5ed@96ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250121T083500Z
+DTSTART:20250121T070000Z
+SUMMARY:TSYS (Bron)
+UID:0961b256-9e24-47a9-bae4-52a1402c4aac@0961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250606T153500Z
+DTSTART:20250606T121000Z
+SUMMARY:WEBA (GANDER)
+UID:3acd9df7-af8b-43f0-a873-680978a63e2f@3acd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250626T111500Z
+DTSTART:20250626T103000Z
+SUMMARY:REMA (Le Franc)
+UID:2aff9953-95dc-40c2-aa84-63c2ae9794f2@2aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20241119T144500Z
+DTSTART:20241119T121000Z
+SUMMARY:STAT (Le Franc)
+UID:f4a7841b-798c-4279-9e61-6b36c6ae4951@f4a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250613T153500Z
+DTSTART:20250613T121000Z
+SUMMARY:WEBA (GANDER)
+UID:4382126e-e60c-4756-89cb-e70a1f21da2e@4382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250408T134500Z
+DTSTART:20250408T121000Z
+SUMMARY:MATH (Le Franc)
+UID:85c85523-91c2-45d4-bdaf-321a0b1296b3@85c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241011T153500Z
+DTSTART:20241011T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:b0045568-2570-4525-a92a-2a123a450b4b@b004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250409T093500Z
+DTSTART:20250409T075000Z
+SUMMARY:MATH (Le Franc)
+UID:74ad4643-4aae-4a9e-92c6-689b6ec8b405@74ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250108T134500Z
+DTSTART:20250108T130000Z
+SUMMARY:MATH (Le Franc)
+UID:f5700890-4d43-4e58-9fca-4740d8832205@f570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250310T102500Z
+DTSTART:20250310T085000Z
+SUMMARY:MDLD (Girardet)
+UID:b7eceed7-f33f-481e-9d6b-75d1db93adcf@b7ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250402T093500Z
+DTSTART:20250402T075000Z
+SUMMARY:MATH (Le Franc)
+UID:a74bcae9-5630-4819-b4cf-b03170d2f57f@a74b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250603T153500Z
+DTSTART:20250603T121000Z
+SUMMARY:PRSE (Gerber)
+UID:80fedcde-6cf6-4edd-b81e-9ed8ceb6500b@80fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241105T083500Z
+DTSTART:20241105T070000Z
+SUMMARY:TSYS (Bron)
+UID:353fa75f-6b93-48e8-aac0-0d640cc4d9c4@353f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250107T102500Z
+DTSTART:20250107T085000Z
+SUMMARY:MATH (Le Franc)
+UID:459db148-f8b7-4956-b99b-200065d7acd0@459d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250526T102500Z
+DTSTART:20250526T085000Z
+SUMMARY:MDLD (Girardet)
+UID:caf03266-a72d-46b6-8543-a78509ce00f0@caf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250207T153500Z
+DTSTART:20250207T121000Z
+SUMMARY:WEBA (GANDER)
+UID:59b5161b-e6ec-4c23-ada4-d3a339481b61@59b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241107T093500Z
+DTSTART:20241107T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:adbbea56-44c4-4c15-a5ed-234518eb7760@adbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241203T083500Z
+DTSTART:20241203T070000Z
+SUMMARY:TSYS (Bron)
+UID:f946dc30-a904-4235-9432-5a8509c98787@f946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241211T153500Z
+DTSTART:20241211T140000Z
+SUMMARY:REMA (Le Franc)
+UID:5530d329-f743-4fae-9dae-8566bb9641a8@5530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250109T102500Z
+DTSTART:20250109T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:d86e5dea-dffe-4aaa-a796-2be486599b5a@d86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250130T083500Z
+DTSTART:20250130T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:b3be45ac-681c-46ae-84c3-3d0864e9e32e@b3be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241115T153500Z
+DTSTART:20241115T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:a78bc175-933d-441f-875b-3c3038d40704@a78b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241219T102500Z
+DTSTART:20241219T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:d42de628-0c90-466a-a064-5ee2f0db8953@d42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241101T153500Z
+DTSTART:20241101T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:5edad862-227e-4d9a-8ce6-e09032d11389@5eda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250115T134500Z
+DTSTART:20250115T130000Z
+SUMMARY:MATH (Le Franc)
+UID:524b04ae-d8ad-4f5f-88df-097bef3a67f2@524b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250627T083500Z
+DTSTART:20250627T075000Z
+SUMMARY:REMA (Le Franc)
+UID:5e77ea42-c301-445f-9caa-0e341b8a34da@5e77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240920T111500Z
+DTSTART:20240920T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:db3bd50b-c9d5-4f7f-a543-bc7d5ad67b5d@db3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20250110T093500Z
+DTSTART:20250110T070000Z
+SUMMARY:RESE (Bron)
+UID:6f8a5d3b-791c-42e6-9d48-4e60596300a6@6f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250320T083500Z
+DTSTART:20250320T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:2987f709-0169-49d8-b27d-4f19ce1731f0@2987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250115T102500Z
+DTSTART:20250115T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:0ddc03a4-2954-4d48-97e8-3ebc1d125548@0ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240920T153500Z
+DTSTART:20240920T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:0dd6cd6d-1dee-4601-a43e-d7ec46c02a83@0dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250410T153500Z
+DTSTART:20250410T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:581bcfd4-efc1-47c6-a778-e3bf74cbc220@581b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250227T153500Z
+DTSTART:20250227T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:18ee1536-3dfe-41a5-ae1a-c5f218af3ca0@18ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250618T111500Z
+DTSTART:20250618T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:38dedfc0-1529-45f0-adf4-8696c4f3931e@38de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250603T102500Z
+DTSTART:20250603T085000Z
+SUMMARY:MATH (Le Franc)
+UID:52399bad-4d16-48f5-ba25-dbc9b6069a3d@5239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250627T153500Z
+DTSTART:20250627T121000Z
+SUMMARY:WEBA (GANDER)
+UID:192e4b8b-6211-4a53-92f5-56cedbf6b7b5@192e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250324T083500Z
+DTSTART:20250324T070000Z
+SUMMARY:BDON (Girardet)
+UID:20f0ae45-02db-488f-8d1c-78db3fbe811e@20f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250331T083500Z
+DTSTART:20250331T070000Z
+SUMMARY:BDON (Girardet)
+UID:fcd5cdd3-0e10-4fcd-8146-cb096a8ce9a2@fcd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250528T153500Z
+DTSTART:20250528T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:bd55db18-cf32-4f3d-be49-e5a0a0ae3e41@bd55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250515T083500Z
+DTSTART:20250515T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:decb52bd-c542-4a92-b250-5b90bb365286@decb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250604T111500Z
+DTSTART:20250604T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:7582127a-a0f3-4824-9d97-c8ea1e1d6a88@7582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241111T083500Z
+DTSTART:20241111T070000Z
+SUMMARY:BDON (Girardet)
+UID:598b5af6-050a-4400-a968-22a70562c1bf@598b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250509T083500Z
+DTSTART:20250509T075000Z
+SUMMARY:REMA (Le Franc)
+UID:1f921a63-616c-4a42-84e8-02779db47d47@1f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250304T102500Z
+DTSTART:20250304T075000Z
+SUMMARY:RESE (Bron)
+UID:1610e8ca-e06b-4e07-8251-9b4c158105d2@1610.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250225T134500Z
+DTSTART:20250225T121000Z
+SUMMARY:MATH (Le Franc)
+UID:a78e2ee9-8efd-421a-843e-b2cd19265520@a78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240823T153500Z
+DTSTART:20240823T121000Z
+SUMMARY:CPTA (Bruyndonckx)
+UID:af56dd63-4f4f-44e5-bcd4-01cc5841ecc3@af56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250408T153500Z
+DTSTART:20250408T140000Z
+SUMMARY:REMA (Le Franc)
+UID:1d238ab9-7f39-47cb-aa34-81e3257559eb@1d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241030T153500Z
+DTSTART:20241030T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:cd2694f4-40b2-47ec-9a49-6fcedb154890@cd26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250124T111500Z
+DTSTART:20250124T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:fba3d191-5c6f-40a2-a685-502c5e919be3@fba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241218T134500Z
+DTSTART:20241218T130000Z
+SUMMARY:MATH (Le Franc)
+UID:c9d94a6e-7ab7-4cf2-8c35-127241933e19@c9d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250509T111500Z
+DTSTART:20250509T085000Z
+SUMMARY:RESE (Bron)
+UID:f2d919dd-01cc-476c-8a5f-8b1ebd33a04b@f2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240905T111500Z
+DTSTART:20240905T094000Z
+SUMMARY:MATH (Le Franc)
+UID:9ca9a910-d320-4b5d-9377-d4d132270305@9ca9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241127T134500Z
+DTSTART:20241127T130000Z
+SUMMARY:MATH (Le Franc)
+UID:39fb29fe-c14e-4318-b071-d6736c1850e8@39fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250501T111500Z
+DTSTART:20250501T103000Z
+SUMMARY:REMA (Le Franc)
+UID:c74fbfda-2ae8-48b7-9b3b-83dc886808ad@c74f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250616T083500Z
+DTSTART:20250616T070000Z
+SUMMARY:BDON (Girardet)
+UID:523faa0a-8f91-4651-91e6-7fd63340529a@523f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250402T153500Z
+DTSTART:20250402T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:c9840bfe-4685-4195-8a7f-c27961f6e0b1@c984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250320T153500Z
+DTSTART:20250320T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:bbad8ef0-c331-4315-8698-2ee783ea9a43@bbad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241009T093500Z
+DTSTART:20241009T070000Z
+SUMMARY:STAT (Le Franc)
+UID:e48a224c-cc59-41f3-b723-525f42744005@e48a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241129T153500Z
+DTSTART:20241129T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:1897f527-2daa-488c-a6d3-dfbef03d75ed@1897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240904T153500Z
+DTSTART:20240904T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:23bd08ac-4381-489d-b73e-0ae6c48a99c1@23bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241031T102500Z
+DTSTART:20241031T094000Z
+SUMMARY:MATH (Le Franc)
+UID:ed3dfaf2-038e-4894-92c0-0ea9b5a897ee@ed3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250508T153500Z
+DTSTART:20250508T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:507ae42f-e47a-41a4-a41a-7dac9b697891@507a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250627T111500Z
+DTSTART:20250627T085000Z
+SUMMARY:RESE (Bron)
+UID:12508a3b-77aa-4ed0-8eb4-045c382a2c64@1250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250319T111500Z
+DTSTART:20250319T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:1db7783e-63b1-4d06-baa7-fe2dbe434f45@1db7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240904T111500Z
+DTSTART:20240904T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:34d7f9be-1cc7-4d6f-8ca6-353d792c04c0@34d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250407T153500Z
+DTSTART:20250407T130000Z
+SUMMARY:GPWR (Gerber)
+UID:ba2b4f53-abef-492f-92ac-359b408dd445@ba2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20250117T153500Z
+DTSTART:20250117T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:34e5fd7b-40fe-44fe-a633-4ae515c8cb9d@34e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250506T083500Z
+DTSTART:20250506T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:2209bd7d-9c0a-4b34-8a8e-c16abbb93815@2209.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250601T170000Z
+DTSTART:20250529T070000Z
+SUMMARY:Congé : Pont de l"Ascension
+UID:6b09353f-9fd8-4e65-9f9e-c98c54e98ab1@6b09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241008T153500Z
+DTSTART:20241008T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:a9f67b19-dd58-4b48-9409-b96e482ee898@a9f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241202T102500Z
+DTSTART:20241202T085000Z
+SUMMARY:MDLD (Girardet)
+UID:f3865eff-3b31-43c4-b0c2-a1005ee505ec@f386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241111T102500Z
+DTSTART:20241111T085000Z
+SUMMARY:MDLD (Girardet)
+UID:d195d6f9-9d93-4e07-a849-39cd10c787f7@d195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250515T111500Z
+DTSTART:20250515T103000Z
+SUMMARY:REMA (Le Franc)
+UID:3ab268d1-b47d-47ea-99f9-aff1bb53c9d9@3ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241031T120500Z
+DTSTART:20241031T112000Z
+SUMMARY:MATH (Le Franc)
+UID:32430797-6b3a-43bc-98e6-f9455ce79cdb@3243.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240902T102500Z
+DTSTART:20240902T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:3fe0e6bc-a10d-4390-8ef3-7149afe00ac1@3fe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241112T153500Z
+DTSTART:20241112T145000Z
+SUMMARY:MATH (Le Franc)
+UID:3129a95c-e271-478d-92fd-151a20910f59@3129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250617T153500Z
+DTSTART:20250617T121000Z
+SUMMARY:PRSE (Gerber)
+UID:1cb0545c-decc-4f0c-a6da-4eeee0c58184@1cb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241011T111500Z
+DTSTART:20241011T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:0732ee74-a411-4742-ad80-c531aac73929@0732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20250116T083500Z
+DTSTART:20250116T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:065c8040-8216-4163-a63c-44e5e4a27d7d@065c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250625T093500Z
+DTSTART:20250625T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:2bb35403-f3c9-4ef9-a2d8-d06c29384538@2bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250310T083500Z
+DTSTART:20250310T070000Z
+SUMMARY:BDON (Girardet)
+UID:b9570c40-f368-494e-9521-5b58d91ff8c1@b957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250214T102500Z
+DTSTART:20250214T070000Z
+SUMMARY:ASRV (Bron)
+UID:9ad32ecd-d197-4ec7-9779-960ce98db891@9ad3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250626T153500Z
+DTSTART:20250626T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:4db319ff-5a8e-4106-a4f7-8604d1b9c293@4db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250311T134500Z
+DTSTART:20250311T121000Z
+SUMMARY:MATH (Le Franc)
+UID:e2226fe8-f4f3-4c73-ab4b-a3693b53a460@e222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250320T111500Z
+DTSTART:20250320T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:07331ecc-26b8-4646-abef-06b9e71880c1@0733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250131T153500Z
+DTSTART:20250131T121000Z
+SUMMARY:WEBA (GANDER)
+UID:ef4919b4-aa21-4f6c-941a-38942c8f0d95@ef49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240919T134500Z
+DTSTART:20240919T112000Z
+SUMMARY:REMA (Le Franc)
+UID:eada256b-8ca6-4908-8937-4350cd7794c0@eada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240821T111500Z
+DTSTART:20240821T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:c089835a-9887-4fd3-8d3b-cd2c2167064d@c089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241113T134500Z
+DTSTART:20241113T130000Z
+SUMMARY:MATH (Le Franc)
+UID:bf1a018e-1d61-4858-9c1b-54cee94cac91@bf1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240913T153500Z
+DTSTART:20240913T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:cadb41ca-c2ab-4b02-b41a-6ab1dc54ba0a@cadb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241216T083500Z
+DTSTART:20241216T070000Z
+SUMMARY:BDON (Girardet)
+UID:7c9752a1-2631-41f2-8426-71131cd3d6d8@7c97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250120T102500Z
+DTSTART:20250120T085000Z
+SUMMARY:MDLD (Girardet)
+UID:fe71de53-b1c8-491b-b06d-be814e96e644@fe71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250602T102500Z
+DTSTART:20250602T085000Z
+SUMMARY:MDLD (Girardet)
+UID:4499dbbd-a34a-4f89-be97-0ba0f90e69ac@4499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241009T153500Z
+DTSTART:20241009T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:f2cc62eb-f331-4e68-ad76-3b63172ec759@f2cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241128T144500Z
+DTSTART:20241128T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:cb9c00db-9c69-436f-8905-f9a6fd89e862@cb9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241213T111500Z
+DTSTART:20241213T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:0f1c3c2c-3ecb-45be-a4ba-704bce124e86@0f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241105T102500Z
+DTSTART:20241105T085000Z
+SUMMARY:MATH (Le Franc)
+UID:a552c1c7-3e32-45de-ba60-5f05628d6252@a552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250306T153500Z
+DTSTART:20250306T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:f05857b7-cddd-489d-a41e-5522ef3074c2@f058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250512T102500Z
+DTSTART:20250512T085000Z
+SUMMARY:MDLD (Girardet)
+UID:b63c33c8-c4ab-4ed6-8eef-28742ed67a6e@b63c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20250109T083500Z
+DTSTART:20250109T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:8f9fbcd1-11f6-4851-912e-53fcb4e8c26c@8f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250304T134500Z
+DTSTART:20250304T121000Z
+SUMMARY:MATH (Le Franc)
+UID:4e1950f2-1057-4b55-be2f-7ff5c23515ed@4e19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250403T111500Z
+DTSTART:20250403T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:01be5801-c59b-4925-8378-1837584be3ab@01be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240821T134500Z
+DTSTART:20240821T121000Z
+SUMMARY:CPTA (Bruyndonckx)
+UID:682e64b1-be32-4383-b9f6-be43ebc035b5@682e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240819T102500Z
+DTSTART:20240819T085000Z
+SUMMARY:MARK (Bruyndonckx)
+UID:ace45bfd-7235-420b-9dc4-195ad5265612@ace4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240826T102500Z
+DTSTART:20240826T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:961efa82-bf66-44ac-9215-edaed9c1a343@961e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241127T125500Z
+DTSTART:20241127T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:ee402be2-250e-4c87-8787-9b70f21234d8@ee40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240927T153500Z
+DTSTART:20240927T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:ca0f3439-d4da-4739-8544-b943ae0a6d2f@ca0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241210T083500Z
+DTSTART:20241210T070000Z
+SUMMARY:TSYS (Bron)
+UID:2248e358-30be-484c-aa2f-a9d2b9ba7df9@2248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241010T111500Z
+DTSTART:20241010T094000Z
+SUMMARY:MATH (Le Franc)
+UID:0f5cd944-380b-4c74-a532-a9096cb27ce4@0f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250123T102500Z
+DTSTART:20250123T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:ae0d053a-38cb-4046-9854-b63b6548e625@ae0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240911T153500Z
+DTSTART:20240911T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:8176031a-bc22-4f82-9a60-8fec6cf88ad1@8176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250520T102500Z
+DTSTART:20250520T085000Z
+SUMMARY:MATH (Le Franc)
+UID:a48ff20a-15d1-4e25-8057-63651eb60863@a48f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241205T144500Z
+DTSTART:20241205T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:c9b098a8-c710-44eb-958c-48659825da58@c9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250128T102500Z
+DTSTART:20250128T075000Z
+SUMMARY:RESE (Bron)
+UID:0014ef6d-464f-4706-857e-6ba739dc28c4@0014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241003T102500Z
+DTSTART:20241003T094000Z
+SUMMARY:MATH (Le Franc)
+UID:f6709cf7-53f6-4c43-a37f-6b9479327f37@f670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241107T111500Z
+DTSTART:20241107T094000Z
+SUMMARY:MATH (Le Franc)
+UID:251247ae-8c10-4a59-9d33-606d57d4fbd6@2512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250306T111500Z
+DTSTART:20250306T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:eb12c0c9-772f-4840-a0e9-9e83c1c77d97@eb12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250514T093500Z
+DTSTART:20250514T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:2cdd4010-3ebd-4034-8e3e-999013747bdf@2cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240828T111500Z
+DTSTART:20240828T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:7302ec71-13b1-4b4b-934e-cc7c1afc0352@7302.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250606T083500Z
+DTSTART:20250606T075000Z
+SUMMARY:REMA (Le Franc)
+UID:0c760092-945a-485b-be2e-cfc24129d738@0c76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250619T083500Z
+DTSTART:20250619T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:15503e9c-4bba-422f-a823-585ff5fffd54@1550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250404T102500Z
+DTSTART:20250404T070000Z
+SUMMARY:ASRV (Bron)
+UID:ddce97ce-b3fd-46bf-ba12-49cda1127890@ddce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250331T102500Z
+DTSTART:20250331T085000Z
+SUMMARY:MDLD (Girardet)
+UID:2a263cca-b367-4923-90eb-54ff8e3eddb1@2a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241009T111500Z
+DTSTART:20241009T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:185b16a1-e30d-4dc9-851b-e3c2fe12161a@185b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250624T083500Z
+DTSTART:20250624T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:551bca78-f750-4a8f-b933-f044e6b14dd5@551b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241216T102500Z
+DTSTART:20241216T085000Z
+SUMMARY:MDLD (Girardet)
+UID:8ab0c2b5-66e4-496c-861b-f2a318cd9bcb@8ab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240829T134500Z
+DTSTART:20240829T121000Z
+SUMMARY:REMA (Le Franc)
+UID:9373779c-8a77-4f36-a30d-2b52b7359cc3@9373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250331T153500Z
+DTSTART:20250331T130000Z
+SUMMARY:GPWR (Gerber)
+UID:f199e50f-4b0d-4c2f-bb61-6ac0f2180b64@f199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240918T111500Z
+DTSTART:20240918T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:d5570306-1032-450b-97a9-efb8d41f2816@d557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250312T111500Z
+DTSTART:20250312T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:6e21db1c-6908-4047-87f2-5635f0008e25@6e21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240925T153500Z
+DTSTART:20240925T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:42c6c9b5-ac1a-443c-9213-73d66d2dcc88@42c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250207T102500Z
+DTSTART:20250207T070000Z
+SUMMARY:ASRV (Bron)
+UID:6f55118b-17e4-426c-9936-2b9f554541b3@6f55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250203T153500Z
+DTSTART:20250203T130000Z
+SUMMARY:GPWR (Gerber)
+UID:4103e702-2ccf-4d9b-844f-ada9327d5a1b@4103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250107T153500Z
+DTSTART:20250107T145000Z
+SUMMARY:MATH (Le Franc)
+UID:0b14bb6d-dec1-4d79-a036-72b2789d0872@0b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250114T083500Z
+DTSTART:20250114T070000Z
+SUMMARY:TSYS (Bron)
+UID:4ef5a02b-1069-4568-81b3-f6ea2c946a06@4ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250313T111500Z
+DTSTART:20250313T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:64f60245-1f9a-447c-9823-6f54038046da@64f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250523T083500Z
+DTSTART:20250523T075000Z
+SUMMARY:REMA (Le Franc)
+UID:fcc69a57-4263-4b0f-8b75-91914c1d7bea@fcc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240923T102500Z
+DTSTART:20240923T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:abc136ab-3f92-47a7-a47f-6ef7fadd3fd9@abc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240829T111500Z
+DTSTART:20240829T094000Z
+SUMMARY:MATH (Le Franc)
+UID:f004bf1f-8c7a-4136-b97a-3f4fa36dde49@f004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241122T153500Z
+DTSTART:20241122T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:1205c700-2e4b-4bec-a542-bae0e785db46@1205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241120T153500Z
+DTSTART:20241120T140000Z
+SUMMARY:REMA (Le Franc)
+UID:9ce3790b-0cab-4988-af40-170ea469b739@9ce3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241107T134500Z
+DTSTART:20241107T121000Z
+SUMMARY:REMA (Le Franc)
+UID:d136efca-4630-43bc-aac6-3408c2068160@d136.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250213T153500Z
+DTSTART:20250213T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:c351c950-f22d-4198-b6a6-0586af240647@c351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240830T153500Z
+DTSTART:20240830T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:4459ab87-d62c-4536-9ddf-527ed643ec01@4459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250411T153500Z
+DTSTART:20250411T121000Z
+SUMMARY:WEBA (GANDER)
+UID:32d3cdbb-1a71-4f9d-a084-171e26b3d696@32d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250115T125500Z
+DTSTART:20250115T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:3b1324fc-fa24-4d79-b168-581951d0c88b@3b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250507T111500Z
+DTSTART:20250507T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:aae8d668-86b7-4345-b2fe-6b91be99b2af@aae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250430T153500Z
+DTSTART:20250430T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:0f95723b-af3e-49bd-8772-cfd780881753@0f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250120T083500Z
+DTSTART:20250120T070000Z
+SUMMARY:BDON (Girardet)
+UID:a18fe274-c004-4a78-bcbe-edc621308ef5@a18f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250528T111500Z
+DTSTART:20250528T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:c6984807-e847-4b5a-ac28-277992fc395d@c698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240820T153500Z
+DTSTART:20240820T121000Z
+SUMMARY:BECO (Barbafieri)
+UID:e66d8520-cde4-4ae2-83fb-0163913e6c87@e66d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250612T083500Z
+DTSTART:20250612T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:403ab44c-8a4f-42df-9a3f-cf4de8b88d54@403a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250306T083500Z
+DTSTART:20250306T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:2e093af9-d5a8-4ca5-9653-6acb3ba0d5f3@2e09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250522T083500Z
+DTSTART:20250522T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:38aafd12-5e52-4861-b9d3-c7cf48a27f75@38aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241108T153500Z
+DTSTART:20241108T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:0a2416d0-30f2-44cb-93e1-946d81d81ed9@0a24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241115T111500Z
+DTSTART:20241115T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:a2b01de0-3bad-492d-9503-f2ab8819a281@a2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250226T153500Z
+DTSTART:20250226T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:a66ff7ba-575d-46e2-844e-1d393e5e6756@a66f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250617T083500Z
+DTSTART:20250617T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:36d72ec7-84d8-4be1-a3d5-c8efc5253b85@36d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241205T102500Z
+DTSTART:20241205T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:ac55f296-7c78-42d9-a63b-77f967b24e0b@ac55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20240912T074500Z
+DTSTART:20240912T070000Z
+SUMMARY:MATH (Le Franc)
+UID:76256048-a1b1-4c15-b8f3-8248e54acaf5@7625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240919T102500Z
+DTSTART:20240919T094000Z
+SUMMARY:MATH (Le Franc)
+UID:5aca6c09-0cec-404c-98bf-1be269250ee4@5aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241121T083500Z
+DTSTART:20241121T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:cc405abe-b499-4676-861f-dc88091aa67f@cc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250225T102500Z
+DTSTART:20250225T075000Z
+SUMMARY:RESE (Bron)
+UID:f45c3f69-ce5f-45eb-b950-352bb54a5d1d@f45c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250409T111500Z
+DTSTART:20250409T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:3b861c90-ca60-4a06-8eae-253e899a94c5@3b86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250318T153500Z
+DTSTART:20250318T140000Z
+SUMMARY:REMA (Le Franc)
+UID:7ea6ddf5-58c3-4a7c-9b90-11c330613e1b@7ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240930T102500Z
+DTSTART:20240930T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:295c8ca9-f75c-4f6d-a37c-ffde0ab123f6@295c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240905T134500Z
+DTSTART:20240905T121000Z
+SUMMARY:REMA (Le Franc)
+UID:eb4941f4-2468-4f76-9989-3771556553b4@eb49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250604T153500Z
+DTSTART:20250604T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:a80950c0-7677-4b07-bc33-ffa0bf8eeda2@a809.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20241126T134500Z
+DTSTART:20241126T112000Z
+SUMMARY:STAT (Le Franc)
+UID:b0c1587b-818c-42d3-a844-60af68367410@b0c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240930T144500Z
+DTSTART:20240930T130000Z
+SUMMARY:CPTA (Bruyndonckx)
+UID:22da6402-291f-4c6f-9d2f-55618df09318@22da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250521T153500Z
+DTSTART:20250521T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:7dc4b503-6830-43c7-a503-a88290f0e1e9@7dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241114T102500Z
+DTSTART:20241114T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:b129aec6-7cca-4cd2-9468-0dca88d9e722@b129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240821T153500Z
+DTSTART:20240821T140000Z
+SUMMARY:MARK (Bruyndonckx)
+UID:7777fe56-8517-4645-99ab-7136888a8081@7777.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241205T083500Z
+DTSTART:20241205T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:3acc22ec-4f1a-4a98-ab65-2d3ae22b665b@3acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250128T134500Z
+DTSTART:20250128T121000Z
+SUMMARY:MATH (Le Franc)
+UID:ebe95e18-9a50-4a27-8af7-46fc99d6e4fb@ebe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250616T102500Z
+DTSTART:20250616T085000Z
+SUMMARY:MDLD (Girardet)
+UID:c57a1de1-6704-433c-9776-39648840e45d@c57a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250213T111500Z
+DTSTART:20250213T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:575deeaf-1757-4f7d-accc-35d18cb50d17@575d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250205T093500Z
+DTSTART:20250205T075000Z
+SUMMARY:MATH (Le Franc)
+UID:12d03abe-fa98-439e-8695-080c5f3a7123@12d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250206T153500Z
+DTSTART:20250206T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:bf0dd139-23e9-40eb-a549-a1444dd373dd@bf0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250610T083500Z
+DTSTART:20250610T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:2fab24a7-2b77-4514-bfed-0e806b5241ca@2fab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241126T144500Z
+DTSTART:20241126T140000Z
+SUMMARY:MATH (Le Franc)
+UID:2f60cd65-aa54-43f2-8673-550c288774c0@2f60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250620T111500Z
+DTSTART:20250620T085000Z
+SUMMARY:RESE (Bron)
+UID:9e2901e8-972b-4019-b705-88f8bb969720@9e29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250520T153500Z
+DTSTART:20250520T121000Z
+SUMMARY:PRSE (Gerber)
+UID:eee1b683-6ad6-46c3-8996-60bd92d0153e@eee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241127T102500Z
+DTSTART:20241127T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:ca0a5fba-c0a2-41f9-8687-a3076ffed5d6@ca0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20241206T093500Z
+DTSTART:20241206T070000Z
+SUMMARY:RESE (Bron)
+UID:4717fced-d6bc-488c-8976-40895b7491a1@4717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241004T111500Z
+DTSTART:20241004T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:2a794470-ec92-4d5b-8f6c-3b97998522a7@2a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250211T134500Z
+DTSTART:20250211T121000Z
+SUMMARY:MATH (Le Franc)
+UID:b1e98dae-5c5c-4327-a207-7ca8a462d70f@b1e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250516T083500Z
+DTSTART:20250516T075000Z
+SUMMARY:REMA (Le Franc)
+UID:ccc03772-8883-447c-90bf-2967113a09f8@ccc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20241129T093500Z
+DTSTART:20241129T070000Z
+SUMMARY:RESE (Bron)
+UID:92adee2c-b954-40c9-b342-df0d34a19cd7@92ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241217T153500Z
+DTSTART:20241217T145000Z
+SUMMARY:MATH (Le Franc)
+UID:b50a4ff2-b694-43e8-9719-7274a2dc2d7c@b50a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2
+DTEND:20250613T083500Z
+DTSTART:20250613T075000Z
+SUMMARY:REMA (Le Franc)
+UID:2a7791a5-1679-4e5b-b08a-8341b0b937b8@2a77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250520T083500Z
+DTSTART:20250520T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:26b05b94-4b7f-4fe2-8ebe-c2fc2216647a@26b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250305T093500Z
+DTSTART:20250305T075000Z
+SUMMARY:MATH (Le Franc)
+UID:d2b4cf2a-b441-4972-af88-ba5df3b1ae40@d2b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20250411T102500Z
+DTSTART:20250411T070000Z
+SUMMARY:ASRV (Bron)
+UID:cf4abff2-79d7-46f9-bd1c-fa126bdba2fb@cf4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250619T153500Z
+DTSTART:20250619T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:6b89b1ad-b96d-45d4-81e0-dc59464031e5@6b89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240827T153500Z
+DTSTART:20240827T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:abbf917f-5815-4ba7-ba13-db721302e2a6@abbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250612T153500Z
+DTSTART:20250612T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:77105838-fdfc-479b-bfcd-f4782d868fd9@7710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250327T111500Z
+DTSTART:20250327T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:a3157454-5153-4fda-884e-e1e2f9fb99e9@a315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250114T102500Z
+DTSTART:20250114T085000Z
+SUMMARY:MATH (Le Franc)
+UID:c0313d09-6474-4d95-b377-f2e4cfc0d770@c031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20250409T153500Z
+DTSTART:20250409T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:ebfb95d6-de6f-441e-a276-09508b4150b8@ebfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250506T153500Z
+DTSTART:20250506T121000Z
+SUMMARY:PRSE (Gerber)
+UID:108f7b26-0851-4237-b17a-957ba4d59206@108f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240823T111500Z
+DTSTART:20240823T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:92adbfae-1b7e-46ec-ad1a-2c9760c62407@92ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241118T102500Z
+DTSTART:20241118T085000Z
+SUMMARY:MDLD (Girardet)
+UID:f68614ed-25e5-4737-bc37-455e3b624e14@f686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250604T093500Z
+DTSTART:20250604T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:538066d9-2ac8-4fc3-a93e-7b3240c840f3@5380.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241113T125500Z
+DTSTART:20241113T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:dd38fa2d-603a-4ce4-a386-e9d1136674e7@dd38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241030T093500Z
+DTSTART:20241030T070000Z
+SUMMARY:STAT (Le Franc)
+UID:f49d853d-d935-4370-8f44-90beb05bb7d2@f49d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241031T093500Z
+DTSTART:20241031T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:e70aefc3-bbd3-48bf-abee-d6d6e69900c6@e70a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20250109T144500Z
+DTSTART:20250109T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:08cc3c57-b239-4cb9-bc7f-b71ff8d45cf5@08cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250506T102500Z
+DTSTART:20250506T085000Z
+SUMMARY:MATH (Le Franc)
+UID:51944892-4700-4bbc-b7fe-b40c262923ea@5194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250528T093500Z
+DTSTART:20250528T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:39e55bce-0c69-493d-8018-c6d344fbea7a@39e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241029T083500Z
+DTSTART:20241029T070000Z
+SUMMARY:TSYS (Bron)
+UID:143a8249-9f3c-46a1-899f-4e0e78536886@143a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250210T102500Z
+DTSTART:20250210T085000Z
+SUMMARY:MDLD (Girardet)
+UID:1d25f9a4-07d3-4dab-976e-d4e25375ef8a@1d25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241112T144500Z
+DTSTART:20241112T121000Z
+SUMMARY:STAT (Le Franc)
+UID:4818a4c7-e89d-4310-8fa1-a372cb9efefe@4818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241213T153500Z
+DTSTART:20241213T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:517e6053-7738-4cb8-a0ea-e9ef62a56d74@517e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240919T093500Z
+DTSTART:20240919T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:2433ebe8-407b-4f8b-b234-f906f1cec13f@2433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250318T134500Z
+DTSTART:20250318T121000Z
+SUMMARY:MATH (Le Franc)
+UID:de0d8fe2-7d70-4924-9015-660c73124d4e@de0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240821T093500Z
+DTSTART:20240821T070000Z
+SUMMARY:STAT (Le Franc)
+UID:9da9d717-b464-4f71-ad34-789e9e127259@9da9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241126T083500Z
+DTSTART:20241126T070000Z
+SUMMARY:TSYS (Bron)
+UID:db0e7c6e-3d3a-472f-8a42-c75e66986df1@db0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes
+DTEND:20250408T102500Z
+DTSTART:20250408T075000Z
+SUMMARY:RESE (Bron)
+UID:6873146c-aa71-48ba-bc88-bc6f9bdcb6de@6873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241002T111500Z
+DTSTART:20241002T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:d1311c44-8f28-4d89-8024-c461e1ca76ec@d131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250516T153500Z
+DTSTART:20250516T121000Z
+SUMMARY:WEBA (GANDER)
+UID:89faacb0-d256-4793-9ce8-2b2b970f2069@89fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250228T153500Z
+DTSTART:20250228T121000Z
+SUMMARY:WEBA (GANDER)
+UID:d9a9765a-2775-4698-856c-8c11d67ac50a@d9a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250508T102500Z
+DTSTART:20250508T085000Z
+SUMMARY:MATH (Le Franc)
+UID:bdbeea04-1ddb-46d4-9d57-ad1154e33485@bdbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240924T102500Z
+DTSTART:20240924T085000Z
+SUMMARY:MATH (Le Franc)
+UID:f1cb5d25-f066-4d1f-be5f-5f895c0261ab@f1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250106T102500Z
+DTSTART:20250106T085000Z
+SUMMARY:MDLD (Girardet)
+UID:f9d5e890-6b22-4e1b-8541-85e403530495@f9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241217T102500Z
+DTSTART:20241217T085000Z
+SUMMARY:MATH (Le Franc)
+UID:8c7b8c13-1819-4186-8310-e0a749e1dce6@8c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240905T093500Z
+DTSTART:20240905T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:a06dc324-0e7f-43f4-99d3-530188a1a222@a06d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241105T153500Z
+DTSTART:20241105T121000Z
+SUMMARY:BECO (Barbafieri) - ES-R202
+UID:643658e3-3f22-410a-9fec-de1a87f2a2f7@6436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241204T102500Z
+DTSTART:20241204T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:6fa8eabc-1758-4c86-a9ea-bc7403c07deb@6fa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240828T093500Z
+DTSTART:20240828T070000Z
+SUMMARY:STAT (Le Franc)
+UID:ec1695d3-40d0-4275-b1fd-5c34ced8c663@ec16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250226T093500Z
+DTSTART:20250226T075000Z
+SUMMARY:MATH (Le Franc)
+UID:4332a8c4-ce3c-4f7b-aa72-7f33b8b2c16f@4332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250610T153500Z
+DTSTART:20250610T121000Z
+SUMMARY:PRSE (Gerber)
+UID:1d858ae9-07b5-4dd5-8df4-791820e5c27c@1d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250605T102500Z
+DTSTART:20250605T085000Z
+SUMMARY:MATH (Le Franc)
+UID:adf5cb0e-be69-4c51-b092-ebfd80f3702a@adf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240926T134500Z
+DTSTART:20240926T121000Z
+SUMMARY:REMA (Le Franc)
+UID:a9be2f3d-5fe6-4586-82fd-d9c43218db61@a9be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241003T134500Z
+DTSTART:20241003T112000Z
+SUMMARY:STAT (Le Franc)
+UID:b51e9cd3-1f58-4e94-8bbb-50d57028c67d@b51e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250509T153500Z
+DTSTART:20250509T121000Z
+SUMMARY:WEBA (GANDER)
+UID:a038c6af-3787-4cdb-9d27-be8483dac161@a038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250428T083500Z
+DTSTART:20250428T070000Z
+SUMMARY:BDON (Girardet)
+UID:572741fe-48d9-42c4-8c4e-709a8fcc9b73@5727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20250110T153500Z
+DTSTART:20250110T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:021c2c74-494b-48d0-a551-13dcf952a276@021c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250401T102500Z
+DTSTART:20250401T075000Z
+SUMMARY:RESE (Bron)
+UID:70f325ce-2b98-4001-8a90-a0330ad44d46@70f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250401T153500Z
+DTSTART:20250401T140000Z
+SUMMARY:REMA (Le Franc)
+UID:d3288755-d62d-4252-9fcf-fc58f8e83a28@d328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250212T111500Z
+DTSTART:20250212T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:995d519d-f6cd-4f23-a70a-1e5604934c13@995d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250307T153500Z
+DTSTART:20250307T121000Z
+SUMMARY:WEBA (GANDER)
+UID:66de6f62-a586-4724-adef-3204c63eaa08@66de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250623T083500Z
+DTSTART:20250623T070000Z
+SUMMARY:BDON (Girardet)
+UID:cdc13ea6-d311-477a-b105-3b432b4465dc@cdc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240926T093500Z
+DTSTART:20240926T075000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:8bb763fb-4dce-4fbc-b318-26f5e5ac5cbf@8bb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20241203T144500Z
+DTSTART:20241203T121000Z
+SUMMARY:STAT (Le Franc)
+UID:9b43a4d5-07ef-4352-ba1a-842724f2a1d4@9b43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250611T093500Z
+DTSTART:20250611T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:09440c30-5176-4a25-8a1c-e6f76f1005c4@0944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241203T102500Z
+DTSTART:20241203T085000Z
+SUMMARY:MATH (Le Franc)
+UID:b9f77f97-b539-4371-985e-aa6529c7cfe1@b9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241121T102500Z
+DTSTART:20241121T085000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:424e25b4-0403-48c9-8b92-0cd1baf3921b@424e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250130T111500Z
+DTSTART:20250130T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:9ef7eeb7-e66a-4c5d-a98f-b79edb322cb8@9ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250317T083500Z
+DTSTART:20250317T070000Z
+SUMMARY:BDON (Girardet)
+UID:8f7f368d-785f-4e77-94fd-5622bdd1b70a@8f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240913T111500Z
+DTSTART:20240913T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:f35e8996-dcde-446c-9362-fce9b40fe06f@f35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250327T083500Z
+DTSTART:20250327T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:9416f119-b143-4e4f-949d-e25fd23e0c0b@9416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250227T083500Z
+DTSTART:20250227T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:1b48142c-72e6-4c5b-8817-6988fc7eaec9@1b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250623T102500Z
+DTSTART:20250623T085000Z
+SUMMARY:MDLD (Girardet)
+UID:d390e32f-8203-48b3-b170-6798a07b2a2e@d390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250502T111500Z
+DTSTART:20250502T085000Z
+SUMMARY:RESE (Bron)
+UID:106ab02d-8442-4c8f-beac-48c9b7c4aaad@106a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240827T102500Z
+DTSTART:20240827T085000Z
+SUMMARY:MATH (Le Franc)
+UID:b53ffa93-f436-482c-8812-d91ad18dd6d1@b53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240822T134500Z
+DTSTART:20240822T121000Z
+SUMMARY:REMA (Le Franc)
+UID:b0ccc0b5-e7b4-47a2-939f-c7e9e276a5b9@b0cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250314T153500Z
+DTSTART:20250314T121000Z
+SUMMARY:WEBA (GANDER)
+UID:d0b0e007-b5a5-4c13-83cd-eb1294010c33@d0b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240918T153500Z
+DTSTART:20240918T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:e3e9bcbf-4345-4e58-b0fe-fa11e248e7b9@e3e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250206T111500Z
+DTSTART:20250206T085000Z
+SUMMARY:TKDE (Le Franc)
+UID:5aefe4fc-22da-47c5-8fa0-f77f3d2b5919@5aef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250210T083500Z
+DTSTART:20250210T070000Z
+SUMMARY:BDON (Girardet)
+UID:a3375d76-8b48-4ad3-8be9-5ed244c628e5@a337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250624T153500Z
+DTSTART:20250624T121000Z
+SUMMARY:PRSE (Gerber)
+UID:7a8137f9-e2dd-4f13-94bb-d7507d4d4a67@7a81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250223T170000Z
+DTSTART:20250215T070000Z
+SUMMARY:Congé : Relâches
+UID:db21c709-6334-443b-85db-b61f35d8b840@db21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250514T111500Z
+DTSTART:20250514T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:e302269b-82f9-4bdb-9b02-4d038b437f13@e302.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250224T102500Z
+DTSTART:20250224T085000Z
+SUMMARY:MDLD (Girardet)
+UID:9690392f-0132-459e-940a-07d26620844d@9690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20250123T144500Z
+DTSTART:20250123T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:d3575824-1f5c-457e-afdf-448d5e896add@d357.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250403T083500Z
+DTSTART:20250403T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:05441872-2b57-457b-8391-8a435ade5c29@0544.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20250116T144500Z
+DTSTART:20250116T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:ac3af887-37c6-4ba4-93ee-008f1aeb18ce@ac3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250117T111500Z
+DTSTART:20250117T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:442d5646-994e-4593-82ef-8826430aca23@442d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240827T083500Z
+DTSTART:20240827T070000Z
+SUMMARY:TSYS (Bron)
+UID:367f0dc1-baee-48ca-943e-d3a1a27878bb@367f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250131T102500Z
+DTSTART:20250131T070000Z
+SUMMARY:ASRV (Bron)
+UID:9baac9b3-0e21-4d0a-b4e4-2912dc37b3b9@9baa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240830T111500Z
+DTSTART:20240830T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:eb5d1d17-0b5c-4da3-bf38-e15604c67632@eb5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241120T102500Z
+DTSTART:20241120T070000Z
+SUMMARY:ALGO (Le Franc)
+UID:3d340125-0c72-453e-b981-c976108cb836@3d34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250303T083500Z
+DTSTART:20250303T070000Z
+SUMMARY:BDON (Girardet)
+UID:e55f2c9c-a8ce-4caa-a976-bc2e0678796c@e55f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250313T153500Z
+DTSTART:20250313T121000Z
+SUMMARY:IPOO (Bianchi-Huguenin)
+UID:47518365-4bb0-424c-b659-3e350be76167@4751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250501T102500Z
+DTSTART:20250501T085000Z
+SUMMARY:MATH (Le Franc)
+UID:0ff88c3f-2504-4f4b-afcb-3314f8186d4a@0ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20250124T153500Z
+DTSTART:20250124T121000Z
+SUMMARY:IGEF (Bruyndonckx) - ES-R106
+UID:e1f468b1-8abd-4d1f-bade-e75d2b9ef80e@e1f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250527T153500Z
+DTSTART:20250527T121000Z
+SUMMARY:PRSE (Gerber)
+UID:2823e69e-01e0-4731-ba89-6c6f99130079@2823.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250609T170000Z
+DTSTART:20250609T070000Z
+SUMMARY:Congé : Lundi de Pentecôte
+UID:e0091141-b7f5-40fa-af9d-fc32a2450395@e009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241211T125500Z
+DTSTART:20241211T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:173b34ed-5ad8-44a7-aeed-0e181bb56e24@173b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250105T170000Z
+DTSTART:20241221T070000Z
+SUMMARY:Congé : Vacances d"hiver
+UID:e13b0cc6-89f6-4b32-93f5-a61ec8e4be33@e13b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20241028T102500Z
+DTSTART:20241028T070000Z
+SUMMARY:MARK (Bruyndonckx) - ETML-S303
+UID:d213ce1c-23eb-4d17-8f8a-d675d559c64c@d213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250313T083500Z
+DTSTART:20250313T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:83eba8c6-7f5c-4fad-80f2-19a27869e9ba@83eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20241120T125500Z
+DTSTART:20241120T112000Z
+SUMMARY:UML (Bianchi-Huguenin)
+UID:3c7b6a4a-e076-43e1-832d-bfd5565a7713@3c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241212T083500Z
+DTSTART:20241212T070000Z
+SUMMARY:IDRO (Barbafieri) - ETML-S309
+UID:47abc4ca-6283-4cf1-992f-10b4988d3bd0@47ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250613T111500Z
+DTSTART:20250613T085000Z
+SUMMARY:RESE (Bron)
+UID:f14c3058-e524-4f33-b930-e79af9597818@f14c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250107T083500Z
+DTSTART:20250107T070000Z
+SUMMARY:TSYS (Bron)
+UID:0a956b1f-3ff7-41e6-9c42-4d2a43bb43f3@0a95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250328T153500Z
+DTSTART:20250328T121000Z
+SUMMARY:WEBA (GANDER)
+UID:ac64e31a-1c38-4cea-ae97-bb58c58f1189@ac64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250507T093500Z
+DTSTART:20250507T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:f29c3ddd-d590-430f-ab12-c90639af2fab@f29c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250618T093500Z
+DTSTART:20250618T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:a25fb7d9-0e6a-4f2f-8620-d60391cf5f3b@a25f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20250115T153500Z
+DTSTART:20250115T140000Z
+SUMMARY:REMA (Le Franc)
+UID:c70f317d-3666-4be5-8140-e66cb11188a6@c70f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250430T093500Z
+DTSTART:20250430T070000Z
+SUMMARY:TKDE (Le Franc)
+UID:594d37d6-70a7-478d-ac4b-b41a86f1c98d@594d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250516T111500Z
+DTSTART:20250516T085000Z
+SUMMARY:RESE (Bron)
+UID:4de72fc6-ac26-4dd3-ae46-1ce627c23552@4de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241220T111500Z
+DTSTART:20241220T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:968ca924-7576-454c-ad91-efafd99bedf7@968c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise
+DTEND:20241210T144500Z
+DTSTART:20241210T121000Z
+SUMMARY:STAT (Le Franc)
+UID:29191aa8-ed8a-40c7-9cc6-7ad8907d619c@2919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241129T111500Z
+DTSTART:20241129T094000Z
+SUMMARY:RTAB (Bruyndonckx)
+UID:211b68ca-fa1e-45b6-b9d8-86d060fdd028@211b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240925T093500Z
+DTSTART:20240925T070000Z
+SUMMARY:STAT (Le Franc)
+UID:dd92e67c-a78e-40d4-89d5-cefb1420296d@dd92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250204T134500Z
+DTSTART:20250204T121000Z
+SUMMARY:MATH (Le Franc)
+UID:dfff5b0c-9e82-4271-8cec-08b3596bb9f4@dfff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250402T111500Z
+DTSTART:20250402T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:64a9e30b-29af-418f-8474-f526c35759e3@64a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241127T153500Z
+DTSTART:20241127T140000Z
+SUMMARY:REMA (Le Franc)
+UID:5a687c58-fc6f-43ee-a9f8-0c26fb670d4d@5a68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion
+DTEND:20240906T153500Z
+DTSTART:20240906T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-N321
+UID:0200acd4-07d0-4451-98d7-6525ae3cee6f@0200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250310T153500Z
+DTSTART:20250310T130000Z
+SUMMARY:GPWR (Gerber)
+UID:660d9b03-4ac1-4481-a262-7660b511cb58@660d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250515T102500Z
+DTSTART:20250515T085000Z
+SUMMARY:MATH (Le Franc)
+UID:68ccaee3-07c3-433b-8027-465ec4bbcce0@68cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250318T102500Z
+DTSTART:20250318T075000Z
+SUMMARY:RESE (Bron)
+UID:deea41bc-d3d0-403f-a8e9-bc48445816e3@deea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250605T083500Z
+DTSTART:20250605T070000Z
+SUMMARY:DROA (Barbafieri)
+UID:e4e1f057-7013-4d75-bc16-ba17e5b768f8@e4e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250401T134500Z
+DTSTART:20250401T121000Z
+SUMMARY:MATH (Le Franc)
+UID:20093051-039e-4b89-be00-8b3ab54501ce@2009.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1
+DTEND:20250603T083500Z
+DTSTART:20250603T070000Z
+SUMMARY:WEBA (Le Franc)
+UID:9bc1f8b9-87c4-40c8-ae2f-1e0babba0f87@9bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241027T170000Z
+DTSTART:20241012T070000Z
+SUMMARY:Congé : Vacances d"automne
+UID:15453ef9-a1d9-46b9-8ab0-de2841847af1@1545.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241120T134500Z
+DTSTART:20241120T130000Z
+SUMMARY:MATH (Le Franc)
+UID:7ae93da7-a537-4658-8813-b433d48229cd@7ae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250304T153500Z
+DTSTART:20250304T140000Z
+SUMMARY:REMA (Le Franc)
+UID:8e0f049a-1501-4571-b973-372140718cd8@8e0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI101 - INGL1 - Ingénierie logicielle 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250321T153500Z
+DTSTART:20250321T121000Z
+SUMMARY:WEBA (GANDER)
+UID:10a39521-a2d6-412b-8d66-916acd8a8564@10a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI111 - OGEN - Outils pour la gestion d"entreprise<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250611T153500Z
+DTSTART:20250611T121000Z
+SUMMARY:GEFA (Bruyndonckx)
+UID:e71ff21a-b596-49eb-a73c-f9f6707125f7@e71f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250129T093500Z
+DTSTART:20250129T075000Z
+SUMMARY:MATH (Le Franc)
+UID:a944d99e-8abf-4669-93bd-46c42cddceff@a944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI131 - BRIT2 - Branches instrumentales 2<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250129T111500Z
+DTSTART:20250129T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:92cd92f5-c4ad-46e0-9920-035a0e010743@92cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion 
+DTEND:20241121T144500Z
+DTSTART:20241121T112000Z
+SUMMARY:CPTA (Bruyndonckx) - ES R106
+UID:0f7ca91d-23e6-4a43-b74e-9046bb0a1a4e@0f7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI120 - INGP - Ingénierie Plateformes<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20250311T102500Z
+DTSTART:20250311T075000Z
+SUMMARY:RESE (Bron)
+UID:ad94d6b2-d0c1-463a-903a-ec65728339a0@ad94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1-inf\, Module : SI110 - CGES - Compléments de gestion <br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20240828T153500Z
+DTSTART:20240828T121000Z
+SUMMARY:CPTA (Bruyndonckx) - ETML-S305
+UID:6f3de4a0-a596-436a-b17e-4c5a4e0447c0@6f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1
+DTEND:20241218T153500Z
+DTSTART:20241218T140000Z
+SUMMARY:REMA (Le Franc)
+UID:e82995e6-3013-4f13-b11a-d31382451b2c@e829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Groupe : SIG1\, Module : SI130 - BRIT1 - Branches instrumentales 1<br/><u>Commentaires :</u><br/>Importation horaires du 19-06-2024
+DTEND:20241108T111500Z
+DTSTART:20241108T094000Z
+SUMMARY:COMM (Bruyndonckx)
+UID:428ae06c-5d46-49f0-bda7-cf5339927eef@428a.org
+END:VEVENT
+END:VCALENDAR

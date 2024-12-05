@@ -1,0 +1,131 @@
+						<!DOCTYPE html>
+<html>
+<head>    
+    <meta charset="utf-8"/>    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        GestEs:
+        Connexion    </title>
+
+<!-- Essai Foundation 5.5.2 bricolé -->
+    <link rel="stylesheet" href="/gestes/css/css_foundation/docs.css"/>    <link rel="stylesheet" href="/gestes/css/save/base.css"/>    <link rel="stylesheet" href="/gestes/css/save/style.css"/>    <link rel="stylesheet" href="/gestes/css/flash_message.css"/>    <link rel="stylesheet" href="/gestes/css/css_foundation/foundation-icons.css"/>    <script src="/gestes/js/js_foundation/modernizr.js"></script><!-- fin Essai Foundation 5.5.2 -->
+
+</head>
+         
+<body  style="background-image:url('webroot/img/bg.png');background-size: contain;" >
+    <nav class="top-bar docs-bar hide-for-small" data-topbar>
+        <ul class="title-area large-1 medium-1 columns">
+            <li class="name">
+              <h1><a href="#"><span>Gest-ES</span></a></h1>
+            </li>
+        </ul>
+        
+                </section>
+    </nav>
+    
+    <!-- Contenu de notre page renvoyée par la vue -->
+
+    <div id="content" class="large-11 medium-11 columns" style="margin-left:4%;">
+    
+    <script src="/gestes/js/js_foundation/templates.js"></script>    <script src="/gestes/js/js_foundation/all.js"></script>    <script>
+        $(document).foundation().foundation('joyride', 'start');
+    </script>
+
+    <link rel="stylesheet" href="/gestes/css/css_datatable/datatable.min.css"/>
+    <script src="/gestes/js/js_datatable/pdfmake.min.js"></script>    <script src="/gestes/js/js_datatable/vfs_fonts.js"></script>    <script src="/gestes/js/js_datatable/datatables.min.js"></script>       
+    <div class="message error" onclick="this.classList.add('hidden');">Informations de connexion incorrectes.</div>
+    <div class="row">
+    <div class="columns large-3 text-center large-centered" style="margin-top: 100px;background-color:#99ccff;border-radius:10px;"><br>
+        <h3 class="more">Connexion</h3><hr/>
+            <div class="text-center"><a class="button"><img src="https://www.microsoft.com/favicon.ico" alt="" width="24" height="24">  Passerelle Eduvaud indisponible !</a></div><p>alors</p><form method="post" accept-charset="utf-8" action="/gestes/connexion"><div style="display:none;"><input type="hidden" name="_method" value="POST"/><input type="hidden" name="_csrfToken" autocomplete="off" value="749a72eb84b854a07f5087d15ceffc5381e33a4489992be77338516815825b0b941b78575f6c83a366a1a89e3dbfdd351bfd38287822f83af9cfe66798dc75d8"/></div><div class="input text"><label for="username">Username</label><input type="text" name="username" id="username"/></div><div class="input password"><label for="password">Password</label><input type="password" name="password" id="password"/></div><input type="hidden" id="Mobile" name="mobile" value="0"><button type="submit">Connexion</button><hr><div id='msg' style='display:none;margin-bottom: 20px;border-radius:10px;'>Vous utilisez le navigateur <span id='nav'></span>. Ce site est conçu pour un meilleur rendu visuel avec Chrome</div></form>    </div>
+    <script>
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+        $("#Mobile").val("1");
+    }
+    function myFunction() { 
+        $ok=0;
+        $nav='';
+         if((navigator.userAgent.indexOf("Opera") || navigator.userAgent.indexOf('OPR')) != -1 ) 
+        {
+            $nav='Opera';
+        }
+        else if(navigator.userAgent.indexOf("Chrome") != -1 )
+        {
+            $nav='Chrome';$ok=1;
+        }
+        else if(navigator.userAgent.indexOf("Safari") != -1)
+        {
+            $nav='Safari';
+        }
+        else if(navigator.userAgent.indexOf("Firefox") != -1 ) 
+        {
+             $nav='Firefox';
+        }
+        else if((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) //IF IE > 10
+        {
+          $nav='Internet explorer'; 
+        }  
+        else {
+            $nav='non reconnu';
+        }
+        if (!$ok) {
+            $("#msg").css(({'display':'inline-block'}));
+            $("#nav").text($nav);
+        }
+    }
+
+    myFunction();
+    </script>
+</div>
+
+    </div>
+
+    <script>
+         $(document).ready(function(){
+            $('#classeDef').on('change', function() {
+                var id = $(this).val();
+                // On appelle le controleur "classroom" en AJAX pour changer la classe par défaut de l'utilisateur
+                var targetUrl = $(this).attr('url');//'classrooms/setclassedef'; 
+                console.log(id);
+                  $.ajax({
+                      type:'get',
+                      url: '/gestes/classrooms/setclassedef/'+id ,//targetUrl,                  
+                      data:null,//id,
+                      dataType: 'json',
+                      success:function(result){
+                        console.log(result);
+                        location.reload();
+                      }
+                  });   
+                
+            });
+
+/*
+            $('#setanneescolaire').on('change', function() {
+                var id = $(this).val();
+                console.log(id);
+                  $.ajax({
+                      type:'get',
+                      url: '/gestes/classrooms/setanneescolaire/'+id,//targetUrl,                  
+                      data:null,//id,
+                      dataType: 'json',
+                      success:function(result){
+                        console.log(result);
+                        location.reload();
+                      }
+                  });   
+                
+            });
+*/
+            $( window ).resize(function() {
+                if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+
+                } else 
+                location.reload();
+            });
+
+       });
+    </script>
+    <footer>
+    </footer>
+</body>
+</html>

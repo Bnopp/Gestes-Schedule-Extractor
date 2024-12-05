@@ -1,0 +1,11 @@
+{
+    "version": "0.0.0-dev0",
+    "default_language": "en",
+    "log_level": "DEBUG",
+    "LOGIN_URL": "https://www.gestes.info/gestes/connexion",
+    "HEADERS": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Referer": "https://www.gestes.info/"
+    }
+}
