@@ -1,8 +1,12 @@
-# Python Project Template
+# Gestes-Schedule-Extractor
 
-This is a base template for Python projects. Use it to quickly set up your projects with logging, environment management, and more.
+This project was made to extract schedule/calendar data from the GEST-ES student platform and make it available in an iCal format to allow students to sync their personal calendar with the platform
 
-## Features
-- Pre-configured logging with rotating file handler and colored console output.
-- Environment variable support using `.env`.
-- Versioning system using `bump-my-version`.
+## How to use
+1. Execute `python -m schedule.schedule` to generate the classes and exams `.ics` files under `schedule/data/calendars`
+
+2. Execute `python -m schedule.server` to start the api providing the `iCal` files for synchronization
+
+## Functions
+- The server updates the `.ics` files every 15 minutes by executing the schedule extraction.
+- To make the api endpoints available for public use, you can use a tool like `ngrok` to map local ports to a public domain ip adress.
