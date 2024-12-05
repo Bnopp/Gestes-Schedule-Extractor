@@ -4,6 +4,7 @@ import json
 import logging
 import requests
 import pandas as pd
+from config.settings import Config
 from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from ics import Calendar, Event
@@ -13,6 +14,7 @@ logging.basicConfig(
     level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+config: Config = Config()
 
 class Schedule:
     def __init__(self):
@@ -23,8 +25,12 @@ class Schedule:
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
             "Referer": self.login_url,
         }
-        self.username = "pl03jlu"  # Replace with your username
-        self.password = "maRley88-MANO"  # Replace with your password
+        self.username = config.get_env_variable(
+            "USERNAME"
+        )  # Replace with your username
+        self.password = config.get_env_variable(
+            "PASSWORD"
+        )  # Replace with your password
 
     def get_csrf_token(self):
         try:
